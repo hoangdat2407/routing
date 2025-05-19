@@ -23,7 +23,7 @@ testNum=1
 SUCCESS_MESSAGE="SUCCESS: All Routes correct!"
 FAILURE_MESSAGE="FAILURE: Not all routes are correct"
 TIMEOUT_PER_TEST=60
-WORKSPACE=~/tmp/
+WORKSPACE=~/tmp
 RESULT_FILE=test_result
 
 # testing functions
